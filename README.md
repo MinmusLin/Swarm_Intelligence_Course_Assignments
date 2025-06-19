@@ -28,7 +28,7 @@ A collection of my swarm intelligence course assignments.
 
 ## 致谢
 
-Thanks to [Notyourbing](https://github.com/Notyourbing) for her contributions to this repository.
+Thanks to [Notyourbing](https://github.com/Notyourbing) for his contributions to this repository.
 
 感谢 [Notyourbing](https://github.com/Notyourbing) 对本仓库的贡献。
 
